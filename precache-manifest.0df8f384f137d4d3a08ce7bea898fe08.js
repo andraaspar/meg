@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/meg/static/js/runtime~main.bd5dcdfc.js"
   },
   {
-    "revision": "a94299d0c30883e290cc",
-    "url": "/meg/static/js/main.a94299d0.chunk.js"
+    "revision": "ca88f81b559fe41e12c3",
+    "url": "/meg/static/js/main.ca88f81b.chunk.js"
   },
   {
     "revision": "daae0d4e3da43b774c34",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/meg/static/css/1.d06cd5bf.chunk.css"
   },
   {
-    "revision": "ec9bb51851775ba4e02de004418ef5b5",
+    "revision": "9bfbebf5191edc70ba20d1f087654884",
     "url": "/meg/index.html"
   }
 ];
