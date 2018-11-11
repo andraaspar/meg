@@ -34,7 +34,7 @@ export class CompApp extends Component<CompAppProps, CompAppState> {
 						{`Meg`}
 					</h1>
 					<p className="subtitle">
-						{`${this.state.questionNumber}. kérdés: ${this.state.correctAnswer}`}
+						{`${this.state.questionNumber}. kérdés`}
 					</p>
 					{!this.state.isWrong && this.state.questionNumber > 1 &&
 						<article className="message is-success">
